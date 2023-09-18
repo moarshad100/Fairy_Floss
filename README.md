@@ -10,8 +10,7 @@
 - [Links](#links)
 
 ## Description
-
-## Key Features
+Creating a note taking application using express.
 
 ![Image](/Develop/images/home.png)
 
