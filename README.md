@@ -24,11 +24,7 @@ Creating a note taking application using express.
 - Dependencies: express (v4.16.4),uuid (v3.4.0)
 - Testing: Insomnia
 
-### Why is this significant?
 
-
-
-`Taking notes is beneficial `
 
 ## Installation
 
